@@ -1,0 +1,7 @@
+[package]
+name = "nycto"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0 OR CC-BY-4.0"
+repository = "https://github.com/ast-ral/nycto/"
+description = "NIZK system"
